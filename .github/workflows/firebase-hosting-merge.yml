@@ -18,3 +18,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_PLAYGROUND_MERIY100 }}'
           channelId: live
           projectId: playground-meriy100
+          entryPoint: wellcome
