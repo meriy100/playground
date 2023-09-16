@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "firebase": "^10.4.0"
-  }
+  },
+  "name": "wellcome",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
 }
